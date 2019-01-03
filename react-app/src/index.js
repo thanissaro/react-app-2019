@@ -1,7 +1,5 @@
-const person = {
-  talk() {
-    console.log("this", this);
-  }
+const address = {
+  street: "",
+  city: "",
+  country: ""
 };
-
-person.talk();
